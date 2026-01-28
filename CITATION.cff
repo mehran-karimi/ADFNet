@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "ADFNet: Adaptive Dynamic Feature Network for IoT Intrusion Detection"
+authors:
+  - family-names: Karimi
+    given-names: Mehran
+  - family-names: Safkhani
+    given-names: Masoumeh
+  - family-names: Daneshpour
+    given-names: Negin
+year: 2025
+url: https://github.com/USERNAME/ADFNet
