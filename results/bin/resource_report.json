@@ -1,0 +1,10 @@
+{
+  "total_params": 17681,
+  "model_folder_bytes": 283343,
+  "process_rss_mb": 1349.49609375,
+  "task_mode": "binary",
+  "class_mapping": {
+    "Benign/Normal": 0,
+    "Attack": 1
+  }
+}

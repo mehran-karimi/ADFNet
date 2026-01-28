@@ -1,0 +1,7 @@
+{
+  "total_params": 21476,
+  "model_folder_bytes": 298576,
+  "process_rss_mb": 3079.46875,
+  "task_mode": "multiclass",
+  "class_mapping": {
+    "Backdoor_Malware": 
